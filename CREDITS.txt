@@ -107,3 +107,6 @@
 
 == Welsh Localization ==
 * Spicylemon2623 (Discord: _spicylemon_)
+
+== Finnish Localization ==
+* MiskuLithium
